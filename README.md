@@ -21,11 +21,11 @@ This repository currently includes:
 - `README.md` — overview of the repository
 - `plan.md` — plan for maintaining the repository and completing HW #4.3
 - `HW4.3_rendered.pdf` — submitted PDF for the assignment
-- `HW4.3_draft.qmd` — QMD source file used for the assignment
+- `HW4.3_report.qmd` — QMD source file used for the assignment
 
 ## Notes
 - The file `HW4.3_rendered.pdf` is the submitted PDF.
-- The file `HW4.3_draft.qmd` is the working QMD source included for this repository.
+- The file `HW4.3_report.qmd` is the working QMD source included for this repository.
 
 ## Contact
 Repository owner: Siyuan Zhou  
